@@ -1,6 +1,10 @@
 # spyder project folder
 .spyproject
 
+# pycache
+__pycache__
+
+
 
  
 
