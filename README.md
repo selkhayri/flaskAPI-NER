@@ -32,7 +32,7 @@ From the project folder, implement the following steps:
 
 	`conda install spacy=2.3.5 -y`
 
-5. Install the english core component for spacy:
+5. Install the English core component for spacy:
 
 	`conda install -c conda-forge spacy-model-en_core_web_md -y`
 
