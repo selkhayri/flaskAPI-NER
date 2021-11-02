@@ -48,7 +48,7 @@ From the project folder, implement the following steps:
 
 1. Click on the URL that was provided by the `flask run` step above:
 
-	[Named Entity Recognition](http://127.0.0.1:5000/)
+	[Named Entity Extractor](http://127.0.0.1:5000/)
 
 2. In the text area, enter some text:
 
